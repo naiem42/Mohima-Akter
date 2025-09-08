@@ -5,7 +5,7 @@
     "autoCreateDB": true,
     "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "autoClean": true,
     "commandDisabled": [
         "sim.js"
@@ -16,7 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "─꯭─⃝‌‌𝐍𝐚𝐢𝐞𝐦 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+    "BOTNAME": "─꯭─⃝‌‌না্ঁঈ্ঁমে্ঁর্ঁ ফে্ঁমা্ঁস্ঁ ব্ঁট্ঁ",
     "PREFIX": "/",
     "ADMINBOT": [
         "61560905313424",
